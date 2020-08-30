@@ -54,5 +54,5 @@ Thanks to the following people who have contributed to this project:
 
 ## Contact
 
-If you want to contact us you can reach us at `Discord` either join our [Server](https://discord.gg/fqExESY) or dm us at 92378283#8033 and 𝖒𝖆𝖗𝖙𝖎𝖓
+If you want to contact us you can reach us at `Discord` either join our [Server](https://discord.gg/hdA8zbM) or dm us at 92378283#8033 and 𝖒𝖆𝖗𝖙𝖎𝖓
 #0001.
