@@ -21,7 +21,7 @@ To install `Storm AIO`, follow these steps:
 
 Windows 10:
 ```
-<Add Assembly => Github => https://github.com/noahdev2/StormAIO => Select Storm AIO and add it.>
+<Add Assembly => Github => https://github.com/noahdev2/StormAioBeta => Select Storm AIO and add it.>
 ```
 ## Using Storm AIO
 
